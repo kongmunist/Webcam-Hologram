@@ -1,0 +1,5 @@
+
+*.icloud
+headtracktest/.DS_Store
+*.pyc
+*.xml
